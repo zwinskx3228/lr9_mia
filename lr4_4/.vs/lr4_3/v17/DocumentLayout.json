@@ -1,0 +1,493 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\mongodbclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\mongodbclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\service\\implementations\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\service\\implementations\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\service\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\service\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\service\\implementations\\menuitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\service\\implementations\\menuitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\service\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\service\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\service\\interfaces\\irestaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\service\\interfaces\\irestaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\service\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\service\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\service\\interfaces\\imenuitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\service\\interfaces\\imenuitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\repositories\\implementations\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\repositories\\implementations\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\repositories\\implementations\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\repositories\\implementations\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\repositories\\implementations\\menuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\repositories\\implementations\\menuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\repositories\\interfaces\\irestaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\repositories\\interfaces\\irestaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\repositories\\interfaces\\imenuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\repositories\\interfaces\\imenuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|c:\\users\\\u043A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DDE04-AFB8-4DD4-B42E-AFDE609CF3D1}|lr4_3\\lr4_3.csproj|solutionrelative:lr4_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 281,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Service\\Interfaces\\IRestaurantService.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Service\\Interfaces\\IRestaurantService.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Service\\Interfaces\\IRestaurantService.cs",
+              "RelativeToolTip": "lr4_3\\Service\\Interfaces\\IRestaurantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:46:56.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Service\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Service\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Service\\Implementations\\UserService.cs",
+              "RelativeToolTip": "lr4_3\\Service\\Implementations\\UserService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:50:33.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuItemService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Service\\Implementations\\MenuItemService.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Service\\Implementations\\MenuItemService.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Service\\Implementations\\MenuItemService.cs",
+              "RelativeToolTip": "lr4_3\\Service\\Implementations\\MenuItemService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:50:00.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Service\\Implementations\\OrderService.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Service\\Implementations\\OrderService.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Service\\Implementations\\OrderService.cs",
+              "RelativeToolTip": "lr4_3\\Service\\Implementations\\OrderService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:51:03.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Service\\Implementations\\RestaurantService.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Service\\Implementations\\RestaurantService.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Service\\Implementations\\RestaurantService.cs",
+              "RelativeToolTip": "lr4_3\\Service\\Implementations\\RestaurantService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:49:19.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MongoDBClient.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\MongoDBClient.cs",
+              "RelativeDocumentMoniker": "lr4_3\\MongoDBClient.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\MongoDBClient.cs",
+              "RelativeToolTip": "lr4_3\\MongoDBClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:25:26.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Service\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Service\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Service\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "lr4_3\\Service\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:48:42.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMenuItemService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Service\\Interfaces\\IMenuItemService.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Service\\Interfaces\\IMenuItemService.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Service\\Interfaces\\IMenuItemService.cs",
+              "RelativeToolTip": "lr4_3\\Service\\Interfaces\\IMenuItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:47:46.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Service\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Service\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Service\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "lr4_3\\Service\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:48:15.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RestaurantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Repositories\\Implementations\\RestaurantRepository.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Repositories\\Implementations\\RestaurantRepository.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Repositories\\Implementations\\RestaurantRepository.cs",
+              "RelativeToolTip": "lr4_3\\Repositories\\Implementations\\RestaurantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:43:10.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Repositories\\Implementations\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Repositories\\Implementations\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Repositories\\Implementations\\OrderRepository.cs",
+              "RelativeToolTip": "lr4_3\\Repositories\\Implementations\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:46:00.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Repositories\\Implementations\\MenuItemRepository.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Repositories\\Implementations\\MenuItemRepository.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Repositories\\Implementations\\MenuItemRepository.cs",
+              "RelativeToolTip": "lr4_3\\Repositories\\Implementations\\MenuItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:44:11.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Repositories\\Implementations\\UserRepository.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Repositories\\Implementations\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Repositories\\Implementations\\UserRepository.cs",
+              "RelativeToolTip": "lr4_3\\Repositories\\Implementations\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:45:21.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRestaurantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Repositories\\Interfaces\\IRestaurantRepository.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Repositories\\Interfaces\\IRestaurantRepository.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Repositories\\Interfaces\\IRestaurantRepository.cs",
+              "RelativeToolTip": "lr4_3\\Repositories\\Interfaces\\IRestaurantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:40:10.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "lr4_3\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:41:45.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMenuItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Repositories\\Interfaces\\IMenuItemRepository.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Repositories\\Interfaces\\IMenuItemRepository.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Repositories\\Interfaces\\IMenuItemRepository.cs",
+              "RelativeToolTip": "lr4_3\\Repositories\\Interfaces\\IMenuItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:40:47.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "lr4_3\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:41:14.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Models\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Models\\Restaurant.cs",
+              "RelativeToolTip": "lr4_3\\Models\\Restaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:37:28.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Models\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "lr4_3\\Models\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:14:56.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Models\\Order.cs",
+              "RelativeToolTip": "lr4_3\\Models\\Order.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:38:46.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Models\\MenuItem.cs",
+              "RelativeToolTip": "lr4_3\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:38:03.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Models\\User.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Models\\User.cs",
+              "RelativeToolTip": "lr4_3\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:38:24.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Controllers\\RestaurantController.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "lr4_3\\Controllers\\RestaurantController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:51:48.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "lr4_3\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:53:25.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MenuItemController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Controllers\\MenuItemController.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Controllers\\MenuItemController.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Controllers\\MenuItemController.cs",
+              "RelativeToolTip": "lr4_3\\Controllers\\MenuItemController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:52:22.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Controllers\\UserController.cs",
+              "RelativeToolTip": "lr4_3\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:52:56.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Program.cs",
+              "RelativeDocumentMoniker": "lr4_3\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447\\Documents\\\u043C\u0456\u0430\\lr4_4\\lr4_3\\Program.cs",
+              "RelativeToolTip": "lr4_3\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:53:45.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 119,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
