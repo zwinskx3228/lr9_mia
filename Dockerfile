@@ -2,25 +2,25 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# копіюємо репозиторій
-COPY . .
+# Копіюємо csproj
+COPY ./lr9_mia/lr9_mia.csproj ./lr9_mia/
 
-# ВАЖЛИВО: переходимо до каталогу проекту
-WORKDIR /src/lr4_4/lr4_3
+# Restore
+RUN dotnet restore ./lr9_mia/lr9_mia.csproj
 
-# restore
-RUN dotnet restore
+# Копіюємо весь проект
+COPY ./lr9_mia ./lr9_mia
 
-# publish
-RUN dotnet publish -c Release -o /app
+# Publish
+RUN dotnet publish ./lr9_mia/lr9_mia.csproj -c Release -o /app/out
+
 
 # Runtime stage
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
 
-COPY --from=build /app .
+COPY --from=build /app/out .
 
-EXPOSE 8080
 ENV ASPNETCORE_URLS=http://+:8080
 
-ENTRYPOINT ["dotnet", "lr4_3.dll"]
+ENTRYPOINT ["dotnet", "lr9_mia.dll"]
