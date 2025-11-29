@@ -1,22 +1,26 @@
-# .NET 8 SDK для збірки
+# Build stage
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-COPY *.sln .
-COPY MyWebApi/*.csproj MyWebApi/
+# копіюємо репозиторій
+COPY . .
+
+# ВАЖЛИВО: переходимо до каталогу проекту
+WORKDIR /src/lr4_4/lr4_3
+
+# restore
 RUN dotnet restore
 
-COPY . .
-WORKDIR /src/MyWebApi
+# publish
 RUN dotnet publish -c Release -o /app
 
-# Runtime образ
+# Runtime stage
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
+
 COPY --from=build /app .
 
 EXPOSE 8080
-
 ENV ASPNETCORE_URLS=http://+:8080
 
-ENTRYPOINT ["dotnet", "MyWebApi.dll"]
+ENTRYPOINT ["dotnet", "lr4_3.dll"]
