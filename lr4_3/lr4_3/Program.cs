@@ -1,4 +1,4 @@
-using lr4_3.Repositories.Implementations;
+﻿using lr4_3.Repositories.Implementations;
 using lr4_3.Repositories.Interfaces;
 using lr4_3.Services.Implementations;
 using lr4_3.Services.Interfaces;
@@ -14,7 +14,7 @@ builder.Services.AddControllers()
             new System.Text.Json.Serialization.JsonStringEnumConverter());
     });
 
-// Swagger
+// Swagger (для всіх середовищ, у т.ч. Railway)
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -31,20 +31,15 @@ builder.Services.AddScoped<IMenuItemService, MenuItemService>();
 builder.Services.AddScoped<IOrderService, OrderService>();
 
 var app = builder.Build();
-if (!app.Environment.IsProduction())
-{
-    app.UseHttpsRedirection();
-}
 
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+// ❗ Railway НЕ ПЕРЕДАЄ HTTPS → редірект повністю вимикаємо
+// app.UseHttpsRedirection();
 
-app.UseHttpsRedirection();
-app.MapControllers();
+// Swagger доступний завжди
 app.UseSwagger();
 app.UseSwaggerUI();
+
+// Routing
+app.MapControllers();
 
 app.Run();
