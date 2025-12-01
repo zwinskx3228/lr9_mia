@@ -4,6 +4,7 @@ using lr4_3.Services.Implementations;
 using lr4_3.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Controllers + Enum serialization
@@ -34,6 +35,8 @@ var app = builder.Build();
 
 // ❗ Railway НЕ ПЕРЕДАЄ HTTPS → редірект повністю вимикаємо
 // app.UseHttpsRedirection();
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+builder.WebHost.UseUrls($"http://0.0.0.0:{port}");
 
 // Swagger доступний завжди
 app.UseSwagger();
