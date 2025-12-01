@@ -20,7 +20,10 @@ namespace SortTest.Test
         private MongoDBClient()
         {
             // 1️⃣ Читаємо змінні середовища Railway
-            var connectionString = Environment.GetEnvironmentVariable("MONGO_CONNECTION");
+            var connectionString =
+    Environment.GetEnvironmentVariable("MONGO_URI")
+    ?? "mongodb+srv://localfallback";
+
             var dbName = Environment.GetEnvironmentVariable("MONGO_DB");
 
             // 2️⃣ Якщо не налаштовано – падати НЕ БУДЕ, а покаже помилку
